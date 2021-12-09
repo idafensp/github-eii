@@ -1,1 +1,1 @@
-print("Tenemos un conflicto")
+print("This is a conflict")
