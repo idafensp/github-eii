@@ -3,4 +3,4 @@ Repositorio de ejemplo curso iniciación a Github EII 2021
 
 Le hago un cambio desde la nueva rama curso
 
-Fix issue 4
+Fix issue 4, y comentando otra
